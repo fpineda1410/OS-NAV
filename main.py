@@ -3,7 +3,7 @@ import fnmatch
 
 '''Basic Ransomware Behavior
 
-A ransomware is a script or set of instructions that is designed to acces files in the host
+A ransomware is a script or set of instructions that is designed to acces files in the host files
 and modify them for malicious purposes
 
 #EDUCATIONAL PURPOSES ONLY
